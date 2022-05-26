@@ -1,0 +1,28 @@
+h1{color:orangered;}
+h2{color:orangered;}
+p{
+    color: brown;
+}
+ol{color:brown;}
+.line{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.mark{background-color: yellow;
+font-weight: bold;}
+.line4{text-decoration: underline;}
+h3{color: orangered;}
+ul{
+    color:brown;
+    letter-spacing: 4px;
+}
+.ul4{
+    background-color: yellow;
+    font-weight: bold;
+}
+a{
+    color:brown;
+    background-color: yellow;
+    text-decoration: none;
+    font-style: oblique;
+}
